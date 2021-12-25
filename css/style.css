@@ -16,14 +16,14 @@ border: 10px solid black;
   height: 150px;
   margin-right: auto;
   margin-left: auto;
-  font-family: Helvetica;
-  padding: 20px;
+  
 }
 .chicken_h{
 border: 5px solid black;
-  float: right;
+  margin-right: 100px;
 
 }
+
 
 .beef{
 border: 10px solid pink;
