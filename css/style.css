@@ -19,6 +19,11 @@ border: 10px solid black;
   font-family: Helvetica;
   padding: 20px;
 }
+.chicken_h{
+border: 5px solid black;
+  float: right;
+
+}
 
 .beef{
 border: 10px solid pink;
