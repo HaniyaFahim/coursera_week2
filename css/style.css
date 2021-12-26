@@ -22,6 +22,7 @@ font-size: 28px;
 padding-left:5px;
 padding-bottom:5px;
 margin-right: auto;
+margin-bottom: auto;
   margin-left: auto;
   
 }
@@ -44,6 +45,7 @@ margin-right: auto;
   width: 95%;
 padding-left:5px;
 padding-bottom:5px;
+margin-bottom: auto;
 margin-right: auto;
   margin-left: auto;
 }
@@ -64,6 +66,7 @@ padding-left: 65px;
   width: 95%;
 padding-left:5px;
 padding-bottom:5px;
+margin-bottom: auto;
 margin-right: auto;
   margin-left: auto;
 }
@@ -89,6 +92,7 @@ padding-left: 60px;
 @media (min-width: 992px) {
   .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12 {
     float: left;
+    margin-bottom: 15px;
   }
   .col-lg-1 {
     width: 8.33%;
