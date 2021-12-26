@@ -26,27 +26,36 @@ float:right;
 
 
 
-
-.beef{
-border: 10px solid pink;
-  background-color: black;
+.beef{border: 10px solid grey;
+  background-color: pink;
   width: 90%;
-  height: 150px;
-  margin-right: auto;
+padding-left:5px;
+padding-bottom:5px;
+margin-right: auto;
   margin-left: auto;
-  font-family: Helvetica;
-  padding: 20px;
 }
 
-.sushi{
-border: 10px solid blue;
-  background-color: grey;
+
+.beeef_h{
+  border: 5px solid grey;
+padding: 5px;
+float:right;
+}
+
+.sushi{border: 10px solid green;
+  background-color: red;
   width: 90%;
-  height: 150px;
-  margin-right: auto;
+padding-left:5px;
+padding-bottom:5px;
+margin-right: auto;
   margin-left: auto;
-  font-family: Helvetica;
-  padding: 20px;
+}
+
+
+.sushi_h{
+  border: 5px solid green;
+padding: 5px;
+float:right;
 }
 
 /* Simple Responsive Framework. */
