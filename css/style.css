@@ -3,26 +3,14 @@
 * {
   box-sizing: border-box;
 }
-h1 {
-  margin-bottom: 15px;
-}
 
 
 
-.chicken{
-border: 10px solid black;
-  background-color: #A52A2A;
-  width: 90%;
-  height: 150px;
-  margin-right: auto;
-  margin-left: auto;
-  
-}
-.chicken_h{
-border: 5px solid black;
-  margin-right: 100px;
 
-}
+.chicken{border: 10px solid black;background-color: #A52A2A;width: 90%;height: 150px;margin-right: auto;margin-left: auto;}
+.chicken_h{border: 5px solid black;
+float:right;}
+
 
 
 .beef{
